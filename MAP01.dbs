@@ -29,9 +29,9 @@ maps
 		overridebrightness = false;
 		uselongtexturenames = false;
 		useresourcesinreadonlymode = false;
-		viewpositionx = 10988.83f;
-		viewpositiony = -29857.22f;
-		viewscale = 0.8650345f;
+		viewpositionx = 11570.8f;
+		viewpositiony = -29023.29f;
+		viewscale = 0.1792146f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -42,7 +42,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 32f;
+			gridsize = 256f;
 			gridrotate = 0f;
 			gridoriginx = 0f;
 			gridoriginy = 0f;
@@ -119,18 +119,27 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 94;
+				caretposition = 130;
+				activetab = true;
 			}
 			
 			document2
 			{
-				filename = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad\\DECORATE";
-				hash = 115616061;
+				filename = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad\\CVARINFO";
+				hash = 3671743206;
 				resource = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad";
 				tabtype = 1;
-				scripttype = 3;
-				caretposition = 41;
-				activetab = true;
+				scripttype = 13;
+				caretposition = 34;
+			}
+			
+			document3
+			{
+				filename = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad\\SBARINFO";
+				hash = 419903970;
+				resource = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad";
+				tabtype = 1;
+				scripttype = 17;
 			}
 		}
 	}
