@@ -29,9 +29,9 @@ maps
 		overridebrightness = false;
 		uselongtexturenames = false;
 		useresourcesinreadonlymode = false;
-		viewpositionx = 10936.55f;
-		viewpositiony = -29888.39f;
-		viewscale = 0.8650366f;
+		viewpositionx = 7986.212f;
+		viewpositiony = -31959.69f;
+		viewscale = 0.1060444f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -42,7 +42,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 32f;
+			gridsize = 256f;
 			gridrotate = 0f;
 			gridoriginx = 0f;
 			gridoriginy = 0f;
@@ -119,9 +119,19 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 1536;
-				firstvisibleline = 57;
+				caretposition = 2244;
+				firstvisibleline = 79;
 				activetab = true;
+			}
+			
+			document2
+			{
+				filename = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad\\DECORATE";
+				hash = 115616061;
+				resource = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad";
+				tabtype = 1;
+				scripttype = 3;
+				caretposition = 59;
 			}
 		}
 	}
