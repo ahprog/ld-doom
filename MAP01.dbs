@@ -29,9 +29,9 @@ maps
 		overridebrightness = false;
 		uselongtexturenames = false;
 		useresourcesinreadonlymode = false;
-		viewpositionx = -2529.779f;
-		viewpositiony = -30396.08f;
-		viewscale = 0.8650302f;
+		viewpositionx = -3801.952f;
+		viewpositiony = -29595.86f;
+		viewscale = 1.124539f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -120,8 +120,9 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 6286;
-				firstvisibleline = 183;
+				caretposition = 5137;
+				firstvisibleline = 138;
+				activetab = true;
 			}
 			
 			document2
@@ -131,9 +132,18 @@ maps
 				resource = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad";
 				tabtype = 1;
 				scripttype = 3;
-				caretposition = 4641;
-				firstvisibleline = 126;
-				activetab = true;
+				caretposition = 4803;
+				firstvisibleline = 109;
+			}
+			
+			document3
+			{
+				filename = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad\\CVARINFO";
+				hash = 3671743206;
+				resource = "C:\\Users\\ELE5d5aa54422115\\Desktop\\Projet GD Doom\\Doom\\MAP01.wad";
+				tabtype = 1;
+				scripttype = 13;
+				caretposition = 111;
 			}
 		}
 	}
